@@ -1,0 +1,35 @@
+.mapControl {
+    height:16px;
+    width:15px;
+    background-color:#ffffff;
+    opacity: 0.6;
+    position: fixed;
+    border-radius: 4px;
+    background-image: url("./images/ui-icons_469bdd_256x240.png");
+}
+div#upBut {
+    top: 100px;left:40px;
+}
+div#downBut {
+    top: 130px;left:40px;
+    background-position-x: 27%;
+}
+div#leftBut {
+    top: 115px;left:20px;
+    background-position-x: 40%;
+}
+div#rightBut {
+    top: 115px;left:60px;
+    background-position-x: 14%;
+}
+
+div#magBut {
+    bottom:50px;left:40px;
+    background-position-x: 53.5%;
+    background-position-y: 50%;
+}
+div#umagBut {
+    bottom: 30px;left:40px;
+    background-position-x: 59.8%;
+    background-position-y: 50%;
+}
